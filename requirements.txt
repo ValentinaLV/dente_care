@@ -10,7 +10,7 @@ django-allauth==0.41.0
 django-crispy-forms==1.8.1
 django-heroku==0.3.1
 django-polymorphic==2.1.2
-django-registration==3.1
+django-registration==3.1.2
 django-storages==1.8
 django-toolbelt==0.0.1
 email-hunter-python==1.1.0
